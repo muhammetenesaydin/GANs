@@ -1,2 +1,2 @@
 # GANs
-Basic Vanilla Generative Conflictive Networks
+Basic Vanilla Generative Adverserial Networks
